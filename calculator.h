@@ -7,6 +7,8 @@ class Calculator
         int Add (double, double);
         int Sub (double, double);
         int Mul (double, double);
+        float Div(double, double);
+        double Pow(double, double);
 };
 
 #endif//CALCULATOR_H
